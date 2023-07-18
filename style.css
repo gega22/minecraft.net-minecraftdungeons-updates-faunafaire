@@ -11,22 +11,27 @@
 .txt2{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: orange;
 }
 .txt3{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: orange;
 }
 .txt4{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color : green;
 }
 .txt5{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: purple;
 }
 .txt6{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: blueviolet;
 }
 .img1{
     width: 600px;
@@ -34,46 +39,57 @@
 .fauna1{
     font-size: 40px;
     font-family: 'Minecraft', sans-serif;
+    color: green;
 }
 .fauna2{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: green;
 }
 .fauna3{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: purple;
 }
 .fauna4{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: darkorange;
 }
 .fauna5{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: rgba(165, 42, 42, 0.788);
 }
 .fauna6{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: darkcyan;
 }
 .pass1{
     font-size: 40px;
     font-family: 'Minecraft', sans-serif;
+    color: pink;
 }
 .pass2{
     font-size: 40px;
     font-family: 'Minecraft', sans-serif;
+    color: purple;
 }
 .pass3{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: orangered;
 }
 .pass4{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: rgba(255, 255, 0, 0.822);
 }
 .pass5{
     font-size: 25px;
     font-family: 'Minecraft', sans-serif;
+    color: rgba(255, 255, 0, 0.822);
 }
 .adventure-pass-img{
     width: 750px;
